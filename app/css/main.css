@@ -1,0 +1,29 @@
+.cardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.card {
+  height: 325px;
+  width: 200px;
+  border: 5px solid orange;
+  border-radius: 15px;
+  overflow: hidden;
+  margin: 15px;
+}
+.card img {
+  height: 325px;
+  width: 200px;
+}
+
+.cardFront {
+  display: none;
+}
+
+span {
+  display: none;
+}
+
+/*# sourceMappingURL=main.css.map */
